@@ -23,16 +23,32 @@ I intend to update this guide whenever the previous version becomes out-of-date 
 ## [Tearlaments](https://yugipedia.com/wiki/Tearlaments)
 Tearlaments appear to be the best deck of the format. Hard to stop with their deluge of graveyard effects and Fusion summoning, they can be played pure or can be further aided by engines like Dangers, P.U.N.K., and others, including even Spright.
 ### Tearlaments: How the Deck Works & Win Condition(s)
-`TODO`
+While Tearlaments are ostensibly a Fusion deck, that's not really how the deck achieves win conditions. Tearlaments are best described as a Fusion Summon- and milling-driven strategy to build varied endboards out of those Fusions and other cards that is able to play though multiple interruptions. When I say "multiple interruptions", I mean I have seen Tearlaments play through PSY-Framegear Gamma and Nibiru on the same turn without breaking a sweat. Tearlaments are often (though not always) played with accompanying engines, such as [P.U.N.K.](https://yugipedia.com/wiki/P.U.N.K.), [Danger](https://yugipedia.com/wiki/Danger!), and more to get more materials and/or access power cards like [Curious, the Lightsworn Dominion](https://yugipedia.com/wiki/Curious,_the_Lightsworn_Dominion) and [Chaos Ruler, the Chaotic Magical Dragon](https://yugipedia.com/wiki/Chaos_Ruler,_the_Chaotic_Magical_Dragon), which Tearlaments greatly benefit from as they are DARK and gain effects off being sent to GY by card effects. 
+
+The main deck Tearlaments monsters all have a HOPT effect when sent to GY by card effects, and another HOPT effect that can be activated. Save for [Tearlaments Reinoheart](https://yugipedia.com/wiki/Tearlaments_Reinoheart), a WATER Warrior, they are all DARK Aqua monsters that, hard once per turn, when sent to the GY by card effects, allow you to Fusion Summon by placing the card sent and other materials on the bottom of the Deck. This means you'll generally get about three total Fusion Summons on your turn, as there are three non-Reinohart main deck Tearlaments monsters. Reinohart's effect when sent to GY is to Special Summon itself, followed by sending a Tearlaments card from hand to GY (potentially triggering other GY effects.)
+
+[Tearlaments Scheiren](https://yugipedia.com/wiki/Tearlaments_Scheiren)'s other effect allows you to Special Summon it from hand, followed by sending a monster from hand to GY and milling 3. Both Scheiren and Reinoheart are level 4, opening the door to Rank 4 plays. 
+
+[Tearlaments Havnis](https://yugipedia.com/wiki/Tearlaments_Havnis)'s other effect allows you to Quick Effect Special Summon it from hand when your opponent activates a monster effect on the field, followed by milling 3. This gives the deck an in-archetype "hand trap" of sorts, and can on its own lead to Fusion plays.
+
+[Tearlaments_Merrli](https://yugipedia.com/wiki/Tearlaments_Merrli)'s other effect lets you mill 3 on its Normal or Special Summon. Being level 2 lets it start to form synergy with Spright Elf and the wider Spright engine.
+
+[Tearlaments Kitkallos](https://yugipedia.com/wiki/Tearlaments_Kitkallos) is the main Fusion engine piece of the deck, letting you add or send to GY a Tearlaments card from deck and then pop a Tearlaments monster to Special Summon another from hand or GY. If it is itself sent to GY by card effect (such as by its own effect), you mill a whopping 5 cards. 
+
+[Tearlaments Sulliek](https://yugipedia.com/wiki/Tearlaments_Sulliek) is a Trap that in addition to its on-field negation effect, lets you add a Tearlaments monster from deck to GY.
+
+With these cards and other easy-to-summon Fusions (like Mudragon of the Swamp, Garura the Wings of Resonant Life, etc), it's a powerhouse of turboing out materials for endboard pieces.
+
+The win condition of the deck varies slightly from variant to variant and strategy to strategy, but is generally "establish a board of interruptions and floodgates, then recover as needed through milling and recycling resources."
 
 ### Tearlaments: Variants
-Pure: `TODO`
+**Pure:** `TODO`
 
-[Danger](https://yugipedia.com/wiki/Danger!): `TODO`
+**[Danger](https://yugipedia.com/wiki/Danger!):** `TODO`
 
-[Spright](https://yugipedia.com/wiki/Spright): `TODO`
+**[Spright](https://yugipedia.com/wiki/Spright):** `TODO`
 
-[Danger](https://yugipedia.com/wiki/Danger!) [P.U.N.K.](https://yugipedia.com/wiki/P.U.N.K.) [Spright](https://yugipedia.com/wiki/Spright): `TODO`
+**[Danger](https://yugipedia.com/wiki/Danger!) [P.U.N.K.](https://yugipedia.com/wiki/P.U.N.K.) [Spright](https://yugipedia.com/wiki/Spright):** `TODO`
 
 ### Tearlaments: Weaknesses and How to Beat It
 `TODO`
@@ -42,14 +58,30 @@ Spright seems to be playing second fiddle to Tearlament variants this format, bu
 ### Spright: How the Deck Works & Win Condition(s)
 
 ### Spright: Variants
-`TODO`
+
+**[Runick](https://yugipedia.com/wiki/Runick):** `TODO`
+
+**[Nimble](https://yugipedia.com/wiki/Nimble):** `TODO`
+
+**[Frog](https://yugipedia.com/wiki/Frog):** `TODO`
+
+**[Live/Evil★Twin](https://yugipedia.com/wiki/Evil%E2%98%85Twin):** `TODO`
+
+**[Adventure](https://yugipedia.com/wiki/Adventurer_Token_(series)):** `TODO`
+
+**[]():** `TODO`
+
+**[]():** `TODO`
 
 ### Spright: Weaknesses and How to Beat It
 `TODO`
 
 ## [Floowandereeze](https://yugipedia.com/wiki/Floowandereeze)
 `TODO`
-
+### Floowandereeze: How the Deck Works & Win Condition(s)
+`TODO`
+### Floowandereeze: Weaknesses and How to Beat It
+`TODO`
 # What Decks are Decent/Rogue
 
 ## [Branded](https://yugipedia.com/wiki/Branded)/[Despia](https://yugipedia.com/wiki/Despia) Variants
@@ -71,6 +103,7 @@ Spright seems to be playing second fiddle to Tearlament variants this format, bu
 `TODO`
 
 ## [@Ignister](https://yugipedia.com/wiki/@Ignister)
+`TODO`
 
 # What Engines and Packages are Good
 
@@ -102,6 +135,7 @@ Stop this package by stopping [Rite of Aramesir](https://yugipedia.com/wiki/Rite
 * 1-2 Fateful Adventure
 * 1 Dracoback, the Rideable Dragon
 * 1 Wandering Gryphon Rider
+* 0-1 Illegal Knight
 
 *Whole engine is about $150 with 3 Rite/3 Water Enchantress/2 Fateful Adventure. If you cut 1 of each of these and accept the consistency loss (and also a 2nd Fateful Adventure isn't really necessary), it's about $100.*
 
@@ -149,10 +183,10 @@ On and off the Forbidden & Limited List, these monsters that cause random discar
 
 *The minimum package of 3 Nessie/1 Jackalope/1 Tsuchinoko will run you about $45, with ~$20 of that being Tsuchinoko. Expensive, but worth it. Mothman is $6 each, adding $18 to $45 for $63. Bigfoot is preferable to Thunderbird right now and is $6 each. Thunderbird is $2.50 each. Getting 3 Nessie/1 Jackalope/1 Tsuchinoko/3 Bigfoot/3 Mothman/3 Thunderbird totals to $90, but you'll have every mix of the best Dangers for the future.*
 
-## Tearlaments
+## [Tearlaments](https://yugipedia.com/wiki/Tearlaments)
 `TODO`
 
-## Spright
+## [Spright](https://yugipedia.com/wiki/Spright)
 `TODO`
 
 ## Artifact
@@ -240,3 +274,8 @@ When you have a method to reliably destroy the set Artifact Scythe, its an extre
 
 # What the Card Market Looks Like
 `TODO`
+
+# Glossary
+
+`Metagame`, or the game of the game, describes the current state of the game in terms of how good (consistent, powerful, grindy, etc) different decks, cards, and strategies are. This knowledge can then aid in making decisions on what decks/cards/strategies to run on your part and what to expect from opponents at competitive events. To call something `meta` is to say it is currently good.
+
