@@ -33,11 +33,17 @@ The main deck Tearlaments monsters all have a HOPT effect when sent to GY by car
 
 [Tearlaments Havnis](https://yugipedia.com/wiki/Tearlaments_Havnis)'s other effect allows you to Quick Effect Special Summon it from hand when your opponent activates a monster effect on the field, followed by milling 3. This gives the deck an in-archetype "hand trap" of sorts, and can on its own lead to Fusion plays.
 
-[Tearlaments_Merrli](https://yugipedia.com/wiki/Tearlaments_Merrli)'s other effect lets you mill 3 on its Normal or Special Summon. Being level 2 lets it start to form synergy with Spright Elf and the wider Spright engine.
+[Tearlaments Merrli](https://yugipedia.com/wiki/Tearlaments_Merrli)'s other effect lets you mill 3 on its Normal or Special Summon. Being level 2 lets it start to form synergy with Spright Elf and the wider Spright engine.
+
+[Primeval Planet Perlereino](https://yugipedia.com/wiki/Primeval_Planet_Perlereino) is the Field Spell for this deck, allowing a Tearlaments monster or Visas Starfrost add from Deck to hand on activation, granting +500 ATK to Tearlaments and Fusions, and a target-and-destroy 1 card on the field when a Tearlaments monster controlled or in owner's GY is shuffled back to Deck. This card is both a big consistency boost and a source of removal that can be used both on your turn and on your opponent's - say, when a Tearlaments Fusion Summoning effect is triggered off being milled by Havnis. The 500 ATK boost seems small but can help you get over problem cards, like say Gigantic Spright. 
 
 [Tearlaments Kitkallos](https://yugipedia.com/wiki/Tearlaments_Kitkallos) is the main Fusion engine piece of the deck, letting you add or send to GY a Tearlaments card from deck and then pop a Tearlaments monster to Special Summon another from hand or GY. If it is itself sent to GY by card effect (such as by its own effect), you mill a whopping 5 cards. 
 
-[Tearlaments Sulliek](https://yugipedia.com/wiki/Tearlaments_Sulliek) is a Trap that in addition to its on-field negation effect, lets you add a Tearlaments monster from deck to GY.
+[Tearlaments Sulliek](https://yugipedia.com/wiki/Tearlaments_Sulliek) is a Continuous Trap that in addition to its on-field negation effect, lets you add a Tearlaments monster from deck to GY. Sulliek's effects effects are HOPT and but can both be used in a turn.
+
+[Tearlaments Metanoise](https://yugipedia.com/wiki/Tearlaments_Metanoise) is a Normal Trap that in addition to its on-field Book of Moon + Foolish of a Tearlaments monster, recovers a Tearlaments monster from GY to hand when sent to GY. Metanoise's effects are HOPT and only one can be used per turn, not both.
+
+[Tearlaments Cryme](https://yugipedia.com/wiki/Tearlaments_Cryme) is a Counter Trap that is a Spell/Trap activation or monster effect negate and shuffle that requires a Tearlaments monster or Visas Starfrost on field to activate, and sends a monster from hand to GY on resolution. The send from hand can trigger Tearlaments fusion summoning effects, but requires a bit of hand management/setup. If sent to GY by a card effect, it recovers a banished Tearlaments monster to hand. Cryme's effects are HOPT and only one can be used per turn, not both.
 
 With these cards and other easy-to-summon Fusions (like Mudragon of the Swamp, Garura the Wings of Resonant Life, etc), it's a powerhouse of turboing out materials for endboard pieces.
 
@@ -90,7 +96,6 @@ Apart from aforementioned engines and the main cards of the deck, other cards en
 * [Paleozoic Dinomischus](https://yugipedia.com/wiki/Paleozoic_Dinomischus) was seen throughout the last few years in another Fusion strategy that benefits from being sent to GY by card effects - [Shaddolls](https://yugipedia.com/wiki/Shaddoll). Now, it can be used for the same purpose - spot banishing removal with the benefit of triggering GY effects, then a body later.
 
 ### Tearlaments: Weaknesses and How to Beat It
-
 Tearlaments rely heavily on the GY. Shutting down the GY ruins them and interfering with it hinders them. That was their downfall in the YCS Niagara Falls finals, as [Exosister](https://yugipedia.com/wiki/Exosister) inherently is anti-GY and also packed Dimension Shifter. Abyss Dweller on its own can prematurely end turns, and D.D. Crow shuts down Fusion Summoning when it hits the Tearlaments monster that is attempting to Fusion Summon, as they must use themselves as material.
 
 A key chokepoint is Tearlaments Kitkallos, though both effects are extremely good. If you can hit both through something like Effect Veiler or Infinite Impermanence, you'll be in decent shape. Other chokepoints tend to be highly dependent upon the variant/accompanying engines you're facing. For example, hitting [Noh-P.U.N.K. Ze Amin](https://yugipedia.com/wiki/Noh-P.U.N.K._Ze_Amin)/[Noh-P.U.N.K. Foxy Tune](https://yugipedia.com/wiki/Noh-P.U.N.K._Foxy_Tune) makes it difficult to get off Chaos Ruler/Curious plays, while hitting Curious itself is dependent on if you fear what might be sent to GY, such as Eradicator Epidemic Virus followed up with Knightmare Gryphon.
@@ -102,6 +107,27 @@ I am personally of the opinion that blowout cards like [Forbidden Droplet](https
 ## [Spright](https://yugipedia.com/wiki/Spright)
 Spright seems to be playing second fiddle to Tearlament variants this format, but can by no means be ignored or discounted. Focusing on Level/Link/Rank 2 plays and easily synergizing with other Level/Link/Rank 2 engines like Frogs and Live Twins and having inherent protection from targeting (via Spright Elf) and even Nibiru (Gigantic Spright), their build-a-board/break-my-board strategy can be tough to handle.
 ### Spright: How the Deck Works & Win Condition(s)
+Spright uses its main deck monsters, all of whom can Special Summon themselves from the hand when the user controls a Level 2 monster, to synergize with other Level 2 engines like Frogs, Runick, Live★Twin, and others to build smaller but resilient boards focused on Level/Link/Rank 2 monsters.
+
+[Spright Blue](https://yugipedia.com/wiki/Spright_Blue) has the same Special Summon from hand effect that all main deck Sprights do, and on its own Special Summon (by any means) can add a Spright monster from deck to hand. This is the main monster engine piece, complimented by the spell Spright Starter. In most cases, you'll be adding Spright Jet off Blue. 
+
+[Spright Jet](https://yugipedia.com/wiki/Spright_Jet) has the same Special Summon from hand effect that all main deck Sprights do, and on its own Special Summon (by any means) can add a Spright spell or trap from deck to hand. 
+
+[Spright Red](https://yugipedia.com/wiki/Spright_Red) has the same Special Summon from hand effect that all main deck Sprights do, and has a Quick effect (regardless of how it got on the field) to tribute another Level/Rank/Link 2 monster to negate a monster effect, then if the Tribute was Rank/Link 2, it destroys that monster too. Spright Red serves as an in-archetype both counter to hand traps like Nibiru/Gamma/Fusion effects of Tearlaments milled off Havnis/etc and an endboard piece.
+
+[Spright Carrot](https://yugipedia.com/wiki/Spright_Carrot) has the same Special Summon from hand effect that all main deck Sprights do, and has a Quick effect (regardless of how it got on the field) to tribute another Level/Rank/Link 2 monster to negate a Spell/Trap card activation or effect, then if the Tribute was Rank/Link 2, it destroys that Spell/Trap too. It serves the same role as Red but against Spells/Traps, so things like Impermanence or opposing engine spells like Primeval Planet Perlereino.
+
+[Spright Pixies](https://yugipedia.com/wiki/Spright_Pixies) has the same Special Summon from hand effect that all main deck Sprights do, while also being an [Honest](https://yugipedia.com/wiki/Honest) for Level/Rank/Link 2 monsters that are battling.
+
+[Spright Starter](https://yugipedia.com/wiki/Spright_Starter) Special Summons a Spright monster from deck at the cost of its ATK value as LP damage and locking you into only being able to Special Summon Level/Rank/Link 2 monsters for the rest of the turn. This card is also HOPT.
+
+[Spright Smashers](https://yugipedia.com/wiki/Spright_Smashers) banishes a Springans, Therion, or Spright card from hand or GY for cost (usually Spright in this deck) to do any 1 of the following: 1) Special Summon a Springans monster from Deck, 2) Special Summon a Therion monster from GY, or 3) Banish 1 Level/Rank/Link 2 monster controlled and 1 card the opponent controls. Usually, this deck is using that third effect as searchable spot removal/disruption. This card is also HOPT.
+
+[Spright Elf](https://yugipedia.com/wiki/Spright_Elf) requires 2 monsters including a Level/Rank/Link 2 monster as material, and cannot be used as Link Material the turn it's Link Summoned. It protects monsters it points to (each bottom corner) from being targeted with card effects, and Quick Effect can target and Special Summon a Level 2 monster in GY, or can instead target a Link/Rank 2 if the opponent controls a monster. This card is a huge combo enabler, a board protector that forces the opponent to waste an interaction on Spright Elf to get at the rest of the board, and a source of recursion. It's the most important single card in the deck in my opinion and is good enough to be ran in other decks.
+
+[Gigantic Spright](https://yugipedia.com/wiki/Gigantic_Spright) is a Rank 2 Xyz that requires 2 Level and/or Link 2 monsters as material. During controller's Main Phase, it can, on resolution, detach 1 material from a monster controlled (that is, any Xyz with materials controlled), to Special Summon a level 2 monster from Deck and lock both players out from Special Summoning non Level/Rank/Link 2 monsters for the rest of the turn - preventing the opponent from Nibiru-ing. It compliments Spright Elf by letting the deck cheat out any Level 2, in-archetype or out, then Spright Elf can reuse it.
+
+The Frog Package is played in almost every Spright deck for its natural Level 2 synergy and the ability to easily cheat out the amazing endboard piece [Toadally Awesome](https://yugipedia.com/wiki/Toadally_Awesome). Generally consisting of 3 copies of [Swap Frog](https://yugipedia.com/wiki/Swap_Frog) and a single copy of [Ronintoadin](https://yugipedia.com/wiki/Ronintoadin), you can either Normal Summon Swap Frog as the root Level 2 for Spright special summons, or bring it out the combo way. The combo way is to make Gigantic Spright and use its effect to summon Swap Frog, which then sends Ronintoadin from Deck to GY. Swap Frog + Gigantic Spright makes Spright Elf, who then summons Swap Frog from GY, and Swap Frog sends a copy of itself from Deck to GY. Ronintoadin banishes the Swap Frog in GY to summon itself, and Swap Frog + Ronintoadin makes Toadally Awesome in a zone protected by Spright Elf. The opponent then has to handle Spright Elf before Toadally Awesome, or else Spright Elf can Summon back a Toadally Awesome that sent itself for a negate so it can be used a second time, as none of Toadally Awesome's effects are hard once per turn.
 
 ### Spright: Variants
 
@@ -118,6 +144,8 @@ Spright seems to be playing second fiddle to Tearlament variants this format, bu
 **[]():** `TODO`
 
 **[]():** `TODO`
+
+### Spright: Key Supporting Cards and Tech Cards
 
 ### Spright: Weaknesses and How to Beat It
 `TODO`
