@@ -19,7 +19,7 @@ This report is intended to a one-stop-shop cheat sheet for the state of the meta
 
 I originally wrote this privately for myself, but figured it might be a good public resource.
 
-I intend to update this guide whenever the previous version becomes out-of-date or incomplete, for whatever reason - new banlist, new decks released or beginning to do well, great new cards released that affect the metagame, etc. Old versions will be stored in a folder called `old_reports`, which does not yet exist as we are currently on the present version. 
+I intend to update this guide whenever the previous version becomes out-of-date or incomplete, for whatever reason - new banlist, new decks released or beginning to do well, great new cards released that affect the metagame, etc. Old versions will be stored in a folder called `old_reports`, which does not yet exist as we are currently on the first version. 
 
 # What Decks are Good
 ## [Tearlaments](https://yugipedia.com/wiki/Tearlaments)
