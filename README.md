@@ -47,7 +47,7 @@ The main deck Tearlaments monsters all have a HOPT effect when sent to GY by car
 
 With these cards and other easy-to-summon Fusions (like Mudragon of the Swamp, Garura the Wings of Resonant Life, etc), it's a powerhouse of turboing out materials for endboard pieces.
 
-The win condition of the deck varies slightly from variant to variant and strategy to strategy, but is generally "establish a board of interruptions and floodgates, then recover as needed through milling and recycling resources."
+**Win Condition(s):** Varies slightly from variant to variant and strategy to strategy, but is generally "establish a board of interruptions and floodgates, expending the opponent's resources as the board is established, then recover as needed through the recursion of milling and recycling resources."
 
 ### Tearlaments: Variants
 Before we get into this, I want to make a note about the non-pure variants. Like in many decks nowadays, the additional engines not only directly advance the main win condition, but also themselves put the opponent into a tough bind. The opponent generally has a limited number of interactions on hand and so can either stop those engines that enable the deck so much, OR they can save their interactions for the main plays of the deck (in this case, the Tearlaments themselves) - rarely both. And in some cases, the extra engines can serve simply as bait for interactions, whether or not the engines would have completed their lines of play, and allow the rest of the deck to function uninterrupted. 
@@ -129,6 +129,8 @@ Spright uses its main deck monsters, all of whom can Special Summon themselves f
 
 The Frog Package is played in almost every Spright deck for its natural Level 2 synergy and the ability to easily cheat out the amazing endboard piece [Toadally Awesome](https://yugipedia.com/wiki/Toadally_Awesome). Generally consisting of 3 copies of [Swap Frog](https://yugipedia.com/wiki/Swap_Frog) and a single copy of [Ronintoadin](https://yugipedia.com/wiki/Ronintoadin), you can either Normal Summon Swap Frog as the root Level 2 for Spright special summons, or bring it out the combo way. The combo way is to make Gigantic Spright and use its effect to summon Swap Frog, which then sends Ronintoadin from Deck to GY. Swap Frog + Gigantic Spright makes Spright Elf, who then summons Swap Frog from GY, and Swap Frog sends a copy of itself from Deck to GY. Ronintoadin banishes the Swap Frog in GY to summon itself, and Swap Frog + Ronintoadin makes Toadally Awesome in a zone protected by Spright Elf. The opponent then has to handle Spright Elf before Toadally Awesome, or else Spright Elf can Summon back a Toadally Awesome that sent itself for a negate so it can be used a second time, as none of Toadally Awesome's effects are hard once per turn.
 
+**Win Condition(s):** Establish a small, hardy board that is protected from interaction as it is made and requires the opponent to expend outsized resources to handle. Recur resources through Extra Deck monsters and accompanying engines, and push for game with Extra Deck finishers.
+
 ### Spright: Variants
 
 **[Runick](https://yugipedia.com/wiki/Runick):** `TODO`
@@ -140,10 +142,6 @@ The Frog Package is played in almost every Spright deck for its natural Level 2 
 **[Live/Evil★Twin](https://yugipedia.com/wiki/Evil%E2%98%85Twin):** `TODO`
 
 **[Adventure](https://yugipedia.com/wiki/Adventurer_Token_(series)):** `TODO`
-
-**[]():** `TODO`
-
-**[]():** `TODO`
 
 ### Spright: Key Supporting Cards and Tech Cards
 
