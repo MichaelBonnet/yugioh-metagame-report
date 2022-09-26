@@ -133,17 +133,62 @@ The Frog Package is played in almost every Spright deck for its natural Level 2 
 
 ### Spright: Variants
 
-**[Runick](https://yugipedia.com/wiki/Runick):** `TODO`
+**[Runick](https://yugipedia.com/wiki/Runick):** My (very amateur) personal take is that Runick is the best engine to pair with Spright. At a very high level, the Runick Quick-Play Spells, all of whom's activations are HOPT, let you choose between A) special summoning a Runick monster from the Extra Deck to the Extra Monster Zone, or B) gaining the user some kind of benefit then banishing a number of cards off the top of the opponent's deck. They all also skip the activator's next Battle Phase. Note that if a player activates one or more on their turn, then one or more on their opponent's turn, only that player's next turn's battle phase is skipped. Same sort of process as activating multiple Reckless Greed in one turn to only skip a minimum number of Draw Phases.
 
-**[Nimble](https://yugipedia.com/wiki/Nimble):** `TODO`
+A quick run-down of the main Runick quick-play spells and their non-Special Summoning effects:
+* [Runick Tip](https://yugipedia.com/wiki/Runick_Tip) adds a Runick card from Deck to hand and banishes 1 from the top of the opponent's deck
+* [Runick Flashing Fire](https://yugipedia.com/wiki/Runick_Flashing_Fire) targets and destroys an opponent's Special Summoned monster and banishes 2 from the top of the opponent's deck
+* [Runick_Freezing_Curses](https://yugipedia.com/wiki/Runick_Freezing_Curses) targets and negates the effects of an opponent's on-field Effect Monster and banishes 3 from the top of the opponent's deck
+* [Runick Destruction](https://yugipedia.com/wiki/Runick_Destruction) targets and destroys an opponent's Spell/Trap and banishes 4 from the top of the opponent's deck
 
-**[Frog](https://yugipedia.com/wiki/Frog):** `TODO`
+The main (and in most cases only) Runick Extra Deck monster this deck summons is [Hugin the Runick Wings](https://yugipedia.com/wiki/Hugin_the_Runick_Wings), a level 2 (see the synergy?) Fusion that on Special Summon from the Extra Deck allows the summoner to discard a card to add a Runick Field Spell from deck to hand. That field spell is [Runick Fountain](https://yugipedia.com/wiki/Runick_Fountain), which allows the controller to not only activate Runick quick-play spells from hand on the opponent's turn, but on activation of a Runick quick-play spell, allows the controller to target up to 3 Runick quick-play spells in GY and shuffle them into the deck and draw as many cards as were shuffled back. This is an immense source of recursion, giving Runick Spright insane levels of grind.
 
-**[Live/Evil★Twin](https://yugipedia.com/wiki/Evil%E2%98%85Twin):** `TODO`
+* Examples: [Thanh Nguyen's YCS Niagara Falls Top 16 build](https://infinite.tcgplayer.com/yugioh/deck/Runick-Spright/462570), [Steven Santoli's YCS Niagara Falls Top 16 build featuring Live Twins](https://infinite.tcgplayer.com/yugioh/deck/Runick-Live-Twin-Spright/462569), [Poe Jiang's Oceania WCQ Top 16 build](https://infinite.tcgplayer.com/yugioh/deck/Runick-Spright/462256), [Jonah Singer's Oceania WCQ Top 16 build](https://infinite.tcgplayer.com/yugioh/deck/Runick-Spright/462255)
 
-**[Adventure](https://yugipedia.com/wiki/Adventurer_Token_(series)):** `TODO`
+**[Nimble](https://yugipedia.com/wiki/Nimble):** More of a package than a full engine/variant, some Spright decks run 3 copies of [Nimble Beaver](https://yugipedia.com/wiki/Nimble_Beaver) as an easy Rank/Link 2 maker that is rarely a dead draw.
+* Example: [Mitchell Martin's YCS Niagara Falls Top 16 build](https://infinite.tcgplayer.com/yugioh/deck/Spright/462566)
+
+**[Frog](https://yugipedia.com/wiki/Frog):** Previously mentioned, and again more of a package than a full engine/variant, almost every Spright deck runs 3 [Swap Frog](https://yugipedia.com/wiki/Swap_Frog) and 1 [Ronintoadin](https://yugipedia.com/wiki/Ronintoadin) to easily make [Toadally Awesome](https://yugipedia.com/wiki/Toadally_Awesome) and other Rank/Link 2s. Some Spright decks will also run a single [Dupe Frog](https://yugipedia.com/wiki/Dupe_Frog) to be Special Summoned by Toadally Awesome's Standby Phase effect for attack protection and floating, but this is rare.
+
+**[Live/Evil★Twin](https://yugipedia.com/wiki/Evil%E2%98%85Twin):** This lightweight engine takes advantage of the Live/Evil Twin's Level/Rank 2 synergy to jump-start standard Spright combos while offering followup in proceeding turns.
+
+Generally consists of:
+* 1 [Live☆Twin Ki-sikil](https://yugipedia.com/wiki/Live%E2%98%86Twin_Ki-sikil), a free Special Summon of a Lil-la monster from hand or deck upon normal or special summon and controlling no other monsters
+* 1 [Live☆Twin Ki-sikil Frost](https://yugipedia.com/wiki/Live%E2%98%86Twin_Ki-sikil_Frost), a free Special Summon from hand when controlling a Lil-la monster, and a somewhat situational banish from GY and draw 1 effect
+* 2-3 [Live☆Twin Lil-la](https://yugipedia.com/wiki/Live%E2%98%86Twin_Lil-la), a free Special Summon of a Ki-sikil monster from hand or deck upon normal or special summon and controlling no other monsters
+* 1-3 [Live☆Twin Sunny's Snitch](https://yugipedia.com/wiki/Live%E2%98%86Twin_Sunny%27s_Snitch), a sort of [Fire Formation - Tenki](https://yugipedia.com/wiki/Fire_Formation_-_Tenki) for the engine
+* 2 [Evil★Twin Ki-sikil](https://yugipedia.com/wiki/Evil%E2%98%85Twin_Ki-sikil) in Extra Deck, a link-2 needing a Ki-sikil monster as material which upon summon draws 1 if also controlling a Lil-la monster, and during Main Phase, can Quick Effect summon a Lil-la monster from GY if one is not already controlled.
+* 1-2 [Evil★Twin Lil-la](https://yugipedia.com/wiki/Evil%E2%98%85Twin_Lil-la) in Extra Deck, a link-2 needing a Lil-la monster as material which upon summon targets and destroys 1 card on the field if also controlling a Ki-sikil monster, and during Main Phase, can Quick Effect summon a Ki-sikil monster from GY if one is not already controlled.
+* 0-1 [Evil★Twin's Trouble Sunny](https://yugipedia.com/wiki/Evil%E2%98%85Twin%27s_Trouble_Sunny) in Extra Deck, a link-4 needing an Evil Twin as material which can Quick Effect tribute itself to summon up to 1 each of Lil-la and Ki-sikil monsters from GY - the idea being you summon both Evil Twin Ki-Sikil and Evil Twin Lil-la at once to satisfy each other's effects to draw 1 and destroy 1, gaining you significant card advantage. Also can banish itself from GY and send an Evil Twin card from hand/deck/face-up field to GY to non-targeting send 1 card on the field to GY, offering spot removal that can handle targeting/destruction protected cards.
+
+Examples: [Adrian Gonzales' YCS Niagara Falls Top 16 build](https://infinite.tcgplayer.com/yugioh/deck/Live-Twin-Spright/462568), [Jan Hornig's Euro WCQ Top 64 build](https://infinite.tcgplayer.com/yugioh/deck/Live-Twins-Spright/461713), [Matteo Giugni's Euro WCQ Top 4] build(https://infinite.tcgplayer.com/yugioh/deck/Live-Twins-Spright/461591)
+
+**[Adventure](https://yugipedia.com/wiki/Adventurer_Token_(series)):** Spright doesn't care too much about getting off Normal Summoned monsters' effects, so the Adventure engine can easily slide into the deck and offer basically free extra interactions to and endboard and protect combos as they progress.
+* Examples: [Ryhan Jabri's Euro WCQ Top 8 build](https://infinite.tcgplayer.com/yugioh/deck/Adventure-Spright/461739), [Jorge Pagan's YCS Niagara Falls Top 32 build](https://infinite.tcgplayer.com/yugioh/deck/Adventure-Spright/462562), [Simon He's YCS Niagara Falls Top 32 build](https://infinite.tcgplayer.com/yugioh/deck/Adventure-Spright/462561)
 
 ### Spright: Key Supporting Cards and Tech Cards
+
+**Key Supporting Cards**
+* Deep Sea Diva is a one-card Link/Rank 2 and is a Tuner for potential shenanigans with Crystron Halqifibrax
+* Downerd Magician ranks up on Rank 2s to give an extra material when making ZEUS.
+* Divine Arsenal AA-ZEUS - Sky Thunder is ol' reliable - make it going second to clear opposing boards or make it mid- to late-game to simplify game state.
+* Dharc helps in the mirror match, bringing back Spright Blue or Spright Jet to gain crazy advantage before going into other plays. It can also get Tearlaments Merrli in the Tearlaments matchup, getting potential benefit off mills.
+* Eria also helps in the mirror match but also against any deck running the Frog package, taking Swap Frogs and sending off them.
+* Sky Cavalry Centaurea not only enables ZEUS by surviving battles but also can help as simple removal.
+* Onibimaru Soul Sweeper helps push for game with non-destroying removal
+* Number 29: Mannequin Cat is an interesting card that can help you bring out theoretically almost anything but is extremely good in the mirror match.
+* Number 65: Djinn Buster is a "generic" (needs DARK materials) rank 2 monster negate endboard.
+* Cat Shark not only enables ZEUS by surviving battles but can help push for game by doubling strong Xyz - Gigantic Spright can go up to 6400 under Cat Shark and its own effect.
+* Knightmare Phoenix is an easily-made Link 2 offering spot S/T removal.
+* Knightmare Cerberus is an easily-made Link 2 offering spot monster removal.
+* Knightmare Unicorn is less commonly run than the other Knightmares as it is a link 3, but can synergize with I:P Masquerena if run.
+* I:P Masquerena can be part of a fully link/rank/level 2 endboard while offering access to things like Knightmare Unicorn and Underworld Goddess.
+* Crystron Halqifibrax can be somewhat easily made and bring out level 2 tuners for shenanigans, or something like Effect Veiler to make Selene and go into Accesscode.
+* Selene, Queen of the Master Magicians can synergize with Crystron Halqifibrax to go into Accesscode.
+* Accesscode Talker can be a finisher for the deck.
+* Daigusto Phoenix can help push for game by upping the damage output of a board.
+* Salamangreat Almiraj helps get normal summons in GY for future use of their GY effects.
+* Pitknight Earlie is an interesting Link 2 endboard piece that adds interaction (often by pointing to Spright Elf) and self-recursion.
 
 ### Spright: Weaknesses and How to Beat It
 `TODO`
